@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shubham Verma 👋
+
+🎓 Mechanical Engineering Student  
+💻 Aspiring Developer | Data Analytics Enthusiast  
+
+## 🚀 Skills
+- Python (NumPy, Pandas)
+- Basic Web Development (HTML, CSS)
+- Data Analysis
+
+## 📌 Projects
+- 📊 Student Performance Analyzer  
+  → Analyzes student marks and generates insights  
+
+- 🎥 YouTube Data Analytics  
+  → Tracks and analyzes channel growth  
+
+- 🖼️ Background Remover  
+  → Removes image background using AI  
+
+## 🎯 Goal
+To build real-world impactful projects and grow as a developer.
+
+## 📫 Contact
+Email: your email
 
 <!--
 **sv0795167-ctrl/sv0795167-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
