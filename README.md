@@ -22,7 +22,7 @@
 To build real-world impactful projects and grow as a developer.
 
 ## 📫 Contact
-Email: your email
+Email: sv0795167@gmail.com
 
 <!--
 **sv0795167-ctrl/sv0795167-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
